@@ -1,0 +1,44 @@
+@import url(http://fonts.googleapis.com/css?family=Croissant+One);
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+
+.mensage{
+
+    background-color: rgba(110, 123, 44, 0.4);
+    background: rgba(110, 123, 44, 0.4);
+    color: rgba(110, 123, 44, 0.4);
+}
+
+
+.modal-title{
+
+    font-size: 1em;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.cabezera {
+
+    background-color: #101214;
+    height:60px ;
+
+
+}
+
+.cabezeras {
+
+
+    width: 600px;
+
+}
+
+.color{
+
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+
+
+
+

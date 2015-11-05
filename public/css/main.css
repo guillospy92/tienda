@@ -1,0 +1,191 @@
+@import url(http://fonts.googleapis.com/css?family=Croissant+One);
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+#title{
+
+    font-size: 5em;
+    font-family: 'Croissant One', cursive;
+
+}
+
+.text2-catalogo{
+    font-size: 1em;
+    font-family: 'Oswald', sans-serif;
+    color: #2a323a;
+}
+
+#title2 {
+
+    font-size: 3em;
+    font-family: 'Croissant One', cursive;
+
+
+}
+
+.navi{
+
+     font-size: 3em;
+     font-family: 'Croissant One', cursive;
+
+ }
+
+
+
+.text-catalogo{
+
+    font-size: 3em;
+    font-family: 'Oswald', sans-serif;
+    color: #2a323a;
+
+}
+
+
+
+.sti{
+
+    border: none;
+    background-image: none;
+    min-height: 90px;
+    padding-top: 20px;
+}
+
+.nav>li>a{  /*esta es la forma como lo hace bootstrap si no no funciinara */
+
+    text-transform: uppercase; /*poner el texto en mayuscula */
+    font-family: 'Oswald', sans-serif;
+    color: #ffffff;
+    font-size: 1.5em;
+    text-shadow:1px,1px,1px, black;
+    -webkit-text-shadow:1px,1px,1px, black;
+    -moz-text-shadow:1px,1px,1px, black;
+
+}
+
+footer{
+    text-align: justify;
+    background-color: #914411;
+}
+
+ ul.redes li  {
+
+    display: inline-block;
+}
+
+
+ /** catalago del producto **/
+
+#demo {
+    position: relative;
+    max-width: 100%;
+    width: 100%;
+
+}
+img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+.white-panel {
+    position: absolute;
+    background: white;
+    box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+    padding: 10px;
+}
+.white-panel h1 {
+    font-size: 1em;
+}
+.white-panel h1 a {
+    color: #A92733;
+}
+.white-panel:hover {
+    box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+    margin-top: -5px;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.product-block{
+
+    border-radius: 25px;
+    background-color: #e5e5e5;
+    padding: 1em;
+
+}
+
+.navbar{
+
+    margin-bottom: 0;
+}
+
+.cart-table{
+
+    border-radius: 1em;
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+    background-color: #cccccc;
+
+
+}
+
+.cart-table img {
+
+    width: 50px;
+}
+
+.cart-color{
+
+    color: black;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+}
+
+.cart-color1{
+
+    color: black;
+    font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+}
+
+
+.cart-color2{
+
+    color: black;
+    font-family: 'Oswald', sans-serif;
+    font-size: 12px;
+}
+
+.apartar{
+    padding: 10px;
+}
+
+.colorfa{
+
+
+    background-color: #3b5998;
+    box-shadow: none;
+    margin-bottom: 20px;
+}
+.colorgo{
+
+
+   background-color:red;
+    box-shadow: none;
+    margin-bottom: 20px;
+}
+
+.page
+{
+    background: #fff;
+    border-radius: 1em;
+    margin-bottom: 30px;
+    padding: 1em;
+}
+
+.tabla-color{
+    color: black;
+}
+
+
+
+
