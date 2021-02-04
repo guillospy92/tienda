@@ -2,4 +2,4 @@
 
 aplicacion en el framework laravel 
 
-consiste en una tienda con corrito de compra y pagos en paypal 
+consiste en una tienda con carrito de compra y pagos en paypal 
